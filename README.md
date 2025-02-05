@@ -27,7 +27,7 @@ package_manager/
 │   ├── index.js        # Archivo principal de la aplicación
 │   ├── logger.js       # Configuración de log4js
 │   └── utils/          # Utilidades y funciones auxiliares
-├── tests/              # Archivos de pruebas unitarias con Mocha y Chai
+├── test/              # Archivos de pruebas unitarias con Mocha y Chai
 ├── .gitignore          # Archivos y directorios ignorados por Git
 ├── package.json        # Configuración del proyecto y dependencias
 ├── package-lock.json   # Registro de dependencias exactas
